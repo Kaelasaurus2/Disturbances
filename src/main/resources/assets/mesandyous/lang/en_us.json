@@ -1,0 +1,13 @@
+{
+  "itemGroup.mesandyous": "Example Mod Tab",
+  "block.mesandyous.example_block": "Example Block",
+  "item.mesandyous.example_item": "Example Item",
+
+  "mesandyous.configuration.title": "Disturbances Configs",
+  "mesandyous.configuration.section.mesandyous.common.toml": "Disturbances Configs",
+  "mesandyous.configuration.section.mesandyous.common.toml.title": "Disturbances Configs",
+  "mesandyous.configuration.items": "Item List",
+  "mesandyous.configuration.logDirtBlock": "Log Dirt Block",
+  "mesandyous.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mesandyous.configuration.magicNumber": "Magic Number"
+}
